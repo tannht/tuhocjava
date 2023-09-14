@@ -13,4 +13,5 @@ public class bai9_tiento_hauto {
 
         System.out.println(i>5 && i>7);
     }
+    
 }
